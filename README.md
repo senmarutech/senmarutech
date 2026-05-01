@@ -24,4 +24,4 @@ A bit About Me
 - I enjoy coffee while coding ☕
 - Music is my coding partner 🎧
 - I love exploring UI/UX trends 🎨
-- I love playing a game
+- I love playing a game for fun 🎮
