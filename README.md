@@ -21,7 +21,7 @@ Tools & Tech
 ---
 A bit About Me
 
-- I enjoy coffee while coding ☕
+- I enjoy lee minerale while coding 🍶
 - Music is my coding partner 🎧
 - I love exploring UI/UX trends 🎨
 - I love playing a game for fun 🎮
