@@ -14,9 +14,9 @@ I love turning UI designs into interactive experiences.
 ---
 Tools & Tech
 
-- React, Vue and TailwindCSS
+- Code Igniter, Tailwind CSS, Vue js, React js
 - Framer Motion for animations
-- Figma, VS Code, Photoshop, Canva
+- Figma, VS Code, Photoshop, Canva, Plerdy
 
 ---
 A bit About Me
@@ -24,3 +24,4 @@ A bit About Me
 - I enjoy coffee while coding ☕
 - Music is my coding partner 🎧
 - I love exploring UI/UX trends 🎨
+- I love playing a game
