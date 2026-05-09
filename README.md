@@ -1,15 +1,8 @@
 ## Hi there 👋
 
-I'm Sen, a frontend enthusiast developer based in Indonesia.
+I'm Sen, a frontend enthusiast developer based in Indonesia. 
 
-I design and build modern web interfaces that are clean, responsive, and user-friendly.
-
-If an idea pops into my head, chances are I'll try to build it and make it real.
-
-My main tech stack is React js, Vue js, Tailwind CSS, and JavaScript.
-Currently exploring TypeScript to level up my skills.
-
-I love turning UI designs into interactive experiences.
+I create captivating and responsive web interfaces as a Frontend Developer with a solid foundation in UI/UX design. With two years of experience and a degree in Informatics, I focus on transforming user-centric designs into high-performing web applications. My approach emphasizes clean, maintainable code and seamless collaboration within teams, ensuring optimal functionality across all devices and browsers. I thrive on staying current with the latest trends and technologies, continuously enhancing user experiences while meeting business objectives. If you need a dedicated partner who can bring your digital vision to life, let’s discuss how I can contribute to your project’s success. My main tech stack is React js, Tailwind CSS, and JavaScript. Currently exploring Vue js to level up my skills.
 
 ---
 Tools & Tech
