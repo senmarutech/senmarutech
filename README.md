@@ -6,7 +6,7 @@ I create captivating and responsive web interfaces as a Frontend Developer with 
 
 ---
 Tools & Tech
-- Code Igniter, Tailwind CSS, Vue js, React js
+- Code Igniter, Tailwind CSS, Javascript, Vue js, React js
 - Framer Motion for animations
 - Figma, VS Code, Photoshop, Canva, Plerdy
 
