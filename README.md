@@ -1,7 +1,8 @@
 # 👋 Yaps that's me
-I'm senmarutech, a frontend developer enthusiast in Indonesia.
+Hi there 👋
+I'm Ahmad Nur Rozik, a Frontend Developer and Informatics graduate based in Indonesia.
 
-I create captivating and responsive web interfaces as a Frontend Developer with a solid foundation in UI/UX design. With two years of experience and a degree in Informatics, I focus on transforming user-centric designs into high-performing web applications. My approach emphasizes clean, maintainable code and seamless collaboration within teams, ensuring optimal functionality across all devices and browsers. I thrive on staying current with the latest trends and technologies, continuously enhancing user experiences while meeting business objectives. If you need a dedicated partner who can bring your digital vision to life, let’s discuss how I can contribute to your project’s success. My main tech stack is React js, Tailwind CSS, and JavaScript. Currently exploring Vue js to level up my skills.
+I am passionate about building responsive, user-friendly, and visually appealing web applications. With a strong foundation in UI/UX principles and modern frontend technologies, I enjoy transforming designs into functional and engaging digital experiences. My primary tech stack includes React.js, Tailwind CSS, and JavaScript, and I am currently exploring Vue.js to broaden my development skills. As a fresh graduate, I am eager to contribute, learn, and grow while delivering high-quality solutions that create value for users and businesses alike.
 
 ---
 
