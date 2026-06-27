@@ -1,4 +1,4 @@
-# 👋 Yaps that's me
+## 👋 Available to work
 Hi there 👋
 I'm Ahmad Nur Rozik, a Frontend Developer and Informatics graduate based in Indonesia.
 
